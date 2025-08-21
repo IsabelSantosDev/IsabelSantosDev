@@ -2,7 +2,7 @@
 **`Desenvolvedora Web`**
 
 - 🔭 Atualmente estou me empenhando para ser desenvolvedora front-end
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: nevesisa30@gmail.com
 - 😄 Pronouns: Ela/Dela
 
