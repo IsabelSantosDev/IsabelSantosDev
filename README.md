@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Isabel (IsabelSantosDev) 👋
 **`Desenvolvedora Web`**
 
-- 🔭 Atualmente estou me empenhando para ser desenvolvedora front-end
+- 🔭 Atualmente estou estudando para ser desenvolvedora front-end
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: nevesisa30@gmail.com
 - 😄 Pronouns: Ela/Dela
