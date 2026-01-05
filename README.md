@@ -1,9 +1,10 @@
 ## Olá! Eu sou a Isabel (IsabelSantosDev) 👋
 **`Desenvolvedora Web`**
 
-- 🔭 Atualmente estou estudando para ser desenvolvedora front-end
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 💻 Atualmente estou iniciando meus estudos em RPA e QA Automation
+- 📖 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: nevesisa30@gmail.com
+- 🔗 Linkedin: www.linkedin.com/in/isabelsantosneves
 - 😄 Pronouns: Ela/Dela
 
 <p align="left">
