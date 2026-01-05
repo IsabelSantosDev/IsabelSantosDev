@@ -2,7 +2,7 @@
 **`Desenvolvedora Web`**
 
 - 💻 Atualmente estou iniciando meus estudos em RPA e QA Automation
-- 📖 Estudando Análise e Desenvolvimento de Sistemas
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me: nevesisa30@gmail.com
 - 🔗 Linkedin: www.linkedin.com/in/isabelsantosneves
 - 😄 Pronouns: Ela/Dela
