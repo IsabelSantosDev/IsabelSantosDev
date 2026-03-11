@@ -1,11 +1,9 @@
-## Olá! Eu sou a Isabel (IsabelSantosDev) 👋
-**`Desenvolvedora Web`**
+## Olá! Eu sou a Isabel 👋
+**`Desenvolvedora Web (Por enquanto)`**
 
 - 💻 Atualmente estou iniciando meus estudos em RPA e QA Automation
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me: nevesisa30@gmail.com
 - 🔗 Linkedin: www.linkedin.com/in/isabelsantosneves
-- 😄 Pronouns: Ela/Dela
 
 <p align="left">
     <a href="https://github.com/IsabelSantosDev?tab=repositories&sort=stargazers">
