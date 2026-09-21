@@ -54,60 +54,12 @@ Gosto de construir páginas com uma estética limpa, delicada e funcional, dando
 
 <br/>
 
-## ✦ GitHub
-
-<div align="center">
-
-<a href="https://github.com/IsabelSantosDev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IsabelSantosDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0B0B&title_color=D4AF37&text_color=E8E8E8&icon_color=D4AF37" />
-</a>
-
-<a href="https://github.com/IsabelSantosDev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelSantosDev&layout=compact&hide_border=true&langs_count=6&bg_color=0B0B0B&title_color=D4AF37&text_color=E8E8E8" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IsabelSantosDev&hide_border=true&background=0B0B0B&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E8E8E8&dates=8A8A8A&currStreakNum=E8E8E8&sideNums=E8E8E8&stroke=2A2A2A" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## ✦ Contribuições
-
-<div align="center">
-
-<!--
-O Snake é gerado por GitHub Actions usando Platane/snk.
-Depois de configurar a Action no repositório de perfil, estes arquivos
-ficarão disponíveis na branch "output".
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsabelSantosDev/IsabelSantosDev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsabelSantosDev/IsabelSantosDev/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/IsabelSantosDev/IsabelSantosDev/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
 ## ✦ Redes sociais
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/isabelsantosneves/">
   <img src="https://img.shields.io/badge/LinkedIn-Isabel%20dos%20Santos%20Neves-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0B0B0B&color=D4AF37" />
-</a>
-
-<a href="https://github.com/IsabelSantosDev">
-  <img src="https://img.shields.io/badge/GitHub-IsabelSantosDev-0B0B0B?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0B0B0B&color=D4AF37" />
 </a>
 
 </div>
