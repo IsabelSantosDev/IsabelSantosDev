@@ -15,9 +15,6 @@
 <a href="https://www.linkedin.com/in/isabelsantosneves/">
   <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0B0B0B&color=D4AF37" />
 </a>
-<a href="https://github.com/IsabelSantosDev">
-  <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0B0B0B&color=D4AF37" />
-</a>
 
 </div>
 
